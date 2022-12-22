@@ -1,3 +1,204 @@
+/*
+import React from "react";
+import "bootstrap/dist/css/bootstrap.css";
+import R_ReactstrapTab from "./chapter06/R_ReactstrapTab";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <R_ReactstrapTab />
+    </div>
+  );
+}
+*/
+/*
+import React from "react";
+import "bootstrap/dist/css/bootstrap.css";
+import R_ReactstrapSpinner from "./chapter06/R_ReactstrapSpinner";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <R_ReactstrapSpinner />
+    </div>
+  );
+}
+*/
+/*
+import React from "react";
+import "bootstrap/dist/css/bootstrap.css";
+import R_ReactstrapNavbar from "./chapter06/R_ReactstrapNavbar";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <R_ReactstrapNavbar />
+    </div>
+  );
+}
+*/
+/*
+import React from "react";
+import "bootstrap/dist/css/bootstrap.css";
+import R_ReactstrapPagination from "./chapter06/R_ReactstrapPagination";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <R_ReactstrapPagination />
+    </div>
+  )
+}
+*/
+
+import React from "react";
+//import "./App.css";
+import "bootstrap/dist/css/bootstrap.css";
+import R_ReactstrapProgress from "./chapter06/R_ReactstrapProgress";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <p>CSS 적용하기</p>
+      <R_ReactstrapProgress />
+    </div>
+  )
+}
+
+/*
+import React from "react";
+import "./App.css";
+import "bootstrap/dist/css/bootstrap.css";
+import R_ReactstrapPopover from "./chapter06/R_ReactstrapPopover";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <p>CSS 적용하기</p>
+      <R_ReactstrapPopover />
+    </div>
+  )
+}
+*/
+/*
+import React from "react";
+import "./App.css";
+import "bootstrap/dist/css/bootstrap.css";
+import R_ReactstrapModal from "./chapter06/R_ReactstrapModal";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <p>CSS 적용하기</p>
+      <R_ReactstrapModal />
+    </div>
+  )
+}
+*/
+/*
+import React from "react";
+import "./App.css";
+import "bootstrap/dist/css/bootstrap.css";
+import R_ReactstrapListGroup from "./chapter06/R_ReactstrapListGroup";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <p>CSS 적용하기</p>
+      <R_ReactstrapListGroup />
+    </div>
+  )
+}
+*/
+/*
+import React from "react";
+import "./App.css";
+import "bootstrap/dist/css/bootstrap.css";
+import R_ReactstrapForm from "./chapter06/R_ReactstrapForm";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <p>CSS 적용하기</p>
+      <R_ReactstrapForm />
+    </div>
+  )
+}
+*/
+/*
+import React from "react";
+import "./App.css";
+import "bootstrap/dist/css/bootstrap.css";
+import R_onMouseMove from "./chapter06/R_onMouseMove";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <p>CSS 적용하기</p>
+      <R_onMouseMove />
+    </div>
+  )
+}
+*/
+/*
+import React from "react";
+import "./App.css";
+import "bootstrap/dist/css/bootstrap.css";
+import R_onChange from "./chapter06/R_onChange";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <p>CSS 적용하기</p>
+      <R_onChange />
+    </div>
+  );
+}
+*/
+/*
+import React from "react";
+import "./App.css";
+import "bootstrap/dist/css/bootstrap.css";
+import R_Promise from "./chapter06/R_Promise";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <p>CSS 적용하기</p>
+      <R_Promise />
+    </div>
+  );
+}
+*/
+/*
+import React from "react";
+import "./App.css";
+import "bootstrap/dist/css/bootstrap.css";
+import Toggle from "./chapter06/Toggle";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <p>CSS 적용하기</p>
+      <Toggle />
+      </div>
+  );
+}
+*/
+/*
 import React from "react";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.css";
@@ -12,7 +213,7 @@ function App() {
       </div>
   );
 }
-
+*/
 /*
 import React from "react";
 import "./App.css";
