@@ -1,5 +1,161 @@
 import React from "react";
 import "./App.css";
+import "bootstrap/dist/css/bootstrap.css";
+import R_ReactstrapButtonGroup from "./chapter05/R_ReactstrapButtonGroup";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <p>CSS 적용하기</p>
+      <R_ReactstrapButtonGroup />
+      </div>
+  );
+}
+
+/*
+import React from "react";
+import "./App.css";
+import "bootstrap/dist/css/bootstrap.css";
+import R_ReactstrapDropdown from "./chapter05/R_ReactstrapDropdown";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <p>CSS 적용하기</p>
+      <R_ReactstrapDropdown />
+      </div>
+  );
+}
+*/
+/*
+import React from "react";
+import "./App.css";
+import "bootstrap/dist/css/bootstrap.css";
+import R_ReactstrapBreadcrumbs from "./chapter05/R_ReactstrapBreadcrumbs";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <p>CSS 적용하기</p>
+      <R_ReactstrapBreadcrumbs />
+    </div>
+  );
+}
+*/
+/*
+import React from "react";
+import "./App.css";
+import R_ReactstrapBadges from "./chapter05/R_ReactstrapBadges";
+import "bootstrap/dist/css/bootstrap.css";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <p>CSS 적용하기</p>
+      <R_ReactstrapBadges />
+    </div>
+  );
+}
+*/
+/*
+import React from "react";
+import "./App.css";
+import R034_ReactstrapAlerts from "./chapter05/R034_ReactstrapAlerts";
+import "bootstrap/dist/css/bootstrap.css";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <p>CSS 적용하기</p>
+      <R034_ReactstrapAlerts />
+    </div>
+  );
+}
+*/
+/*
+import React from "react";
+import "./App.css";
+import R_FunctionComponent from "./chapter01/R_FunctionComponent";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <p>CSS 적용하기</p>
+      <R_FunctionComponent contents="[ THIS IS FunctionComponent ]" />
+    </div>
+  );
+}
+*/
+/*
+import React from 'react';
+import './App.css';
+import R_PureComponentClass from './chapter02/R_PureComponentClass';
+
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <p>CSS 적용하기</p>
+      <R_PureComponentClass />
+    </div>
+  );
+}
+*/
+/*
+import React from 'react';
+import './App.css';
+import R_ComponentClass from './chapter02/R_ComponentClass';
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <p>CSS 적용하기</p>
+      <R_ComponentClass />
+    </div>
+  );
+}
+*/
+/*
+import React from "react";
+import "./App.css";
+import R_SetState from "./chapter02/R_SetState";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <p>CSS 적용하기</p>
+      <R_SetState />
+    </div>
+  );
+}
+*/
+/*
+import React from "react";
+import "./App.css";
+import ReactState from "./chapter02/ReactState";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <p>CSS 적용하기</p>
+      <ReactState reactString={"react"} />
+    </div>
+  )
+}
+*/
+/*
+import React from "react";
+import "./App.css";
 import ArrowFunction from "./chapter03/ArrowFunction";
 
 function App() {
@@ -11,7 +167,7 @@ function App() {
     </div>
   );
 }
-
+*/
 /*
 import React from "react";
 import "./App.css";
