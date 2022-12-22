@@ -1,6 +1,86 @@
 import React from "react";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.css";
+import R_ReactstrapFade from "./chapter05/R_ReactstrapFade";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <p>CSS 적용하기</p>
+      <R_ReactstrapFade />
+      </div>
+  );
+}
+
+/*
+import React from "react";
+import "./App.css";
+import "bootstrap/dist/css/bootstrap.css";
+import R_ReactstrapCollapse from "./chapter05/R_ReactstrapCollapse";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <p>CSS 적용하기</p>
+      <R_ReactstrapCollapse />
+      </div>
+  );
+}
+*/
+/*
+import React from "react";
+import "./App.css";
+import "bootstrap/dist/css/bootstrap.css";
+import R_ReactstrapCarousel from "./chapter05/R_ReactstrapCarousel";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <p>CSS 적용하기</p>
+      <R_ReactstrapCarousel />
+      </div>
+  );
+}
+*/
+/*
+import React from "react";
+import "./App.css";
+import "bootstrap/dist/css/bootstrap.css";
+import R_ReactstrapCard from "./chapter05/R_ReactstrapCard";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <p>CSS 적용하기</p>
+      <R_ReactstrapCard />
+      </div>
+  );
+}
+*/
+/*
+import React from "react";
+import "./App.css";
+import "bootstrap/dist/css/bootstrap.css";
+import R_ReactstrapButtons from "./chapter05/R_ReactstrapButtons";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <p>CSS 적용하기</p>
+      <R_ReactstrapButtons />
+      </div>
+  );
+}
+*/
+/*
+import React from "react";
+import "./App.css";
+import "bootstrap/dist/css/bootstrap.css";
 import R_ReactstrapButtonGroup from "./chapter05/R_ReactstrapButtonGroup";
 
 function App() {
@@ -12,7 +92,7 @@ function App() {
       </div>
   );
 }
-
+*/
 /*
 import React from "react";
 import "./App.css";
