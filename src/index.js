@@ -4,6 +4,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { BrowserRouter } from 'react-router-dom';
 //import CommentList from './chapter03/CommentList';
 //import Clock from './chapter02/Clock';
 //import Library from './chapter01/Library';
@@ -11,9 +12,9 @@ import reportWebVitals from './reportWebVitals';
 //setInterval(() => {
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
+  <BrowserRouter>
     <App />
-  </React.StrictMode>
+  </BrowserRouter>
 );
 //}, 1000);
 
