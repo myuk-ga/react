@@ -1,3 +1,58 @@
+import React from "react";
+import R_Sweetalert2Basic from "./chapter07/R_Sweetalert2Basic";
+
+function App() {
+  return (
+    <div>
+      <h1>Start React 200!</h1>
+      <R_Sweetalert2Basic />
+    </div>
+  );
+}
+
+/*
+import { useState } from "react";
+import Info from "./chapter07/Info";
+
+function App() {
+  const [visible, setVisible] = useState(false);
+  return (
+    <div>
+      <button onClick={() => {
+        setVisible(!visible);
+      }}>
+        {visible ? "숨기기": "보이기"}
+      </button>
+      <hr />
+      {visible && <Info />}
+    </div>
+  );
+}
+*/
+/*
+import React from "react";
+import Counter1 from "./chapter07/Counter1";
+
+function App() {
+  return(
+    <div>
+      <Counter1 />
+    </div>
+  )
+}
+*/
+/*
+import React from "react";
+import Counter from "./chapter07/Counter";
+
+function App() {
+  return(
+    <div>
+      <Counter />
+    </div>
+  )
+}
+*/
 /*
 import React from "react";
 import "bootstrap/dist/css/bootstrap.css";
@@ -54,7 +109,7 @@ function App() {
   )
 }
 */
-
+/*
 import React from "react";
 //import "./App.css";
 import "bootstrap/dist/css/bootstrap.css";
@@ -69,7 +124,7 @@ function App() {
     </div>
   )
 }
-
+*/
 /*
 import React from "react";
 import "./App.css";
